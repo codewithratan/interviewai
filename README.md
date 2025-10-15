@@ -75,10 +75,6 @@ Ensure you have the following installed:
    ```
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Live Demo
-
-[Visit Interview Amigo](https://interviewamigo.com)
-
 
 
 ## Contributing
